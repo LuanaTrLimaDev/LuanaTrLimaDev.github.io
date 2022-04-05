@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.528b0752.css",
-    "main.js": "/static/js/main.72e8507f.js",
+    "main.css": "/static/css/main.e198bbbe.css",
+    "main.js": "/static/js/main.dae89906.js",
     "static/media/luana-lima.jpeg": "/static/media/luana-lima.12537cc8028b7d5bfc80.jpeg",
     "static/media/avatar-lua.png": "/static/media/avatar-lua.e898994de9a50586643a.png",
     "static/media/mais-valor.png": "/static/media/mais-valor.c6ca4ad974fecbb01692.png",
     "static/media/adias.png": "/static/media/adias.428656ba08a741783bd1.png",
     "index.html": "/index.html",
-    "main.528b0752.css.map": "/static/css/main.528b0752.css.map",
-    "main.72e8507f.js.map": "/static/js/main.72e8507f.js.map"
+    "main.e198bbbe.css.map": "/static/css/main.e198bbbe.css.map",
+    "main.dae89906.js.map": "/static/js/main.dae89906.js.map"
   },
   "entrypoints": [
-    "static/css/main.528b0752.css",
-    "static/js/main.72e8507f.js"
+    "static/css/main.e198bbbe.css",
+    "static/js/main.dae89906.js"
   ]
 }
