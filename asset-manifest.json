@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.59ae7787.css",
-    "main.js": "/static/js/main.351d43b2.js",
+    "main.js": "/static/js/main.f28a0dd1.js",
     "static/media/luana.png": "/static/media/luana.555b6cc5f46c66a303bb.png",
     "static/media/bg-luana.png": "/static/media/bg-luana.04c7c1050835e0cd9565.png",
     "static/media/macbook.jpg": "/static/media/macbook.67536f08b5fde0fb8df2.jpg",
@@ -12,10 +12,10 @@
     "static/media/adias.png": "/static/media/adias.428656ba08a741783bd1.png",
     "index.html": "/index.html",
     "main.59ae7787.css.map": "/static/css/main.59ae7787.css.map",
-    "main.351d43b2.js.map": "/static/js/main.351d43b2.js.map"
+    "main.f28a0dd1.js.map": "/static/js/main.f28a0dd1.js.map"
   },
   "entrypoints": [
     "static/css/main.59ae7787.css",
-    "static/js/main.351d43b2.js"
+    "static/js/main.f28a0dd1.js"
   ]
 }
