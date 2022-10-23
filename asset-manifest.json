@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.e198bbbe.css",
-    "main.js": "/static/js/main.dae89906.js",
-    "static/media/luana-lima.jpeg": "/static/media/luana-lima.12537cc8028b7d5bfc80.jpeg",
-    "static/media/avatar-lua.png": "/static/media/avatar-lua.e898994de9a50586643a.png",
+    "main.css": "/static/css/main.aa25dea5.css",
+    "main.js": "/static/js/main.351d43b2.js",
+    "static/media/luana.png": "/static/media/luana.555b6cc5f46c66a303bb.png",
+    "static/media/bg-luana.png": "/static/media/bg-luana.04c7c1050835e0cd9565.png",
+    "static/media/macbook.jpg": "/static/media/macbook.67536f08b5fde0fb8df2.jpg",
+    "static/media/bg-luana2.png": "/static/media/bg-luana2.0f0f7dd053e7d39a966e.png",
+    "static/media/curriculo.pdf": "/static/media/curriculo.d49e4bc189404bd20a48.pdf",
+    "static/media/simpro.png": "/static/media/simpro.ecbd6da9aa03d8cec26f.png",
     "static/media/mais-valor.png": "/static/media/mais-valor.c6ca4ad974fecbb01692.png",
     "static/media/adias.png": "/static/media/adias.428656ba08a741783bd1.png",
     "index.html": "/index.html",
-    "main.e198bbbe.css.map": "/static/css/main.e198bbbe.css.map",
-    "main.dae89906.js.map": "/static/js/main.dae89906.js.map"
+    "main.aa25dea5.css.map": "/static/css/main.aa25dea5.css.map",
+    "main.351d43b2.js.map": "/static/js/main.351d43b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.e198bbbe.css",
-    "static/js/main.dae89906.js"
+    "static/css/main.aa25dea5.css",
+    "static/js/main.351d43b2.js"
   ]
 }
